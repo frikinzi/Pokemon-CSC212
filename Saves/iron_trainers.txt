@@ -1,0 +1,32 @@
+[Scientist Taylor]
+LoseText="!"
+Money=5000
+Pokemon=TOXICROAK,100
+
+Pokemon=TOGEKISS,100
+
+[Professor Pablo]
+LoseText=""
+Money=10000
+Pokemon=KYOGRE,100
+**IVs=31,31,31,31,31,31
+**EVs=0,0,0,252,0,252
+**Moves=WATERSPOUT,ORIGINPULSE,THUNDER,ICEBEAM
+**Ability=0
+**Item=CHOICESCARF
+**Nature=TIMID
+
+Pokemon=GROUDON,100
+**IVs=31,31,31,31,31,31
+**EVs=0,252,0,0,0,252
+**Moves=DRAGONDANCE,PRECIPICEBLADES,FIREPUNCH,ICEPUNCH
+**Ability=0
+**Item=LEFTOVERS
+**Nature=JOLLY
+
+[Musician Pat]
+LoseText="Friday surprise!"
+Money=1000
+Pokemon=LAPRAS,100
+
+

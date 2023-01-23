@@ -1,0 +1,25 @@
+[Birder Ashley]
+LoseText="!"
+Money=5000
+Pokemon=CORVISQUIRE,100
+
+Pokemon=CORVIKNIGHT,100
+
+Pokemon=ROOKIDEE,100
+
+[Hiker Barbara]
+LoseText="Ah you're so good..."
+Money=5000
+Pokemon=GABITE,100
+
+Pokemon=GABITE,100
+
+Pokemon=GABITE,100
+
+[Psychic Jen]
+LoseText="Cheater..."
+Money=1000
+Pokemon=METANG,100
+
+Pokemon=TORRACAT,100
+

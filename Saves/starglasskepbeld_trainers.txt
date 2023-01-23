@@ -1,0 +1,42 @@
+[Diver Betty]
+LoseText="No!!! My Squirtle squad!"
+Pokemon=SQUIRTLE,100
+
+Pokemon=WARTORTLE,100
+
+Pokemon=BLASTOISE,100
+
+[Diver Freya]
+LoseText="No!!! My Squirtle squad!"
+Pokemon=PRIMARINA,100
+
+Pokemon=GYARADOS,100
+
+Pokemon=BLASTOISE,100
+
+[Pat]
+LoseText=
+Pokemon=INFERNAPE,100
+**IVs=31,31,31,31,31,31
+**EVs=0,252,0,0,0,252
+**Moves=THUNDERPUNCH,CLOSECOMBAT,FLAREBLITZ,SWORDSDANCE
+**Ability=0
+**Item=LIFEORB
+**Nature=JOLLY
+
+Pokemon=LUGIA,100
+**IVs=31,31,31,31,31,31
+**EVs=0,0,0,252,4,252
+**Moves=PSYCHIC,AEROBLAST,CALMMIND,HYDROPUMP
+**Ability=0
+**Item=LEFTOVERS
+**Nature=MODEST
+
+Pokemon=ALTARIA,100
+**IVs=31,31,31,31,31,31
+**EVs=0,252,0,0,4,252
+**Moves=DOUBLEEDGE,EARTHQUAKE,FIREBLAST,OUTRAGE
+**Ability=0
+**Item=ALTARIANITE
+**Nature=NAIVE
+

@@ -1,0 +1,19 @@
+[Student Michaela]
+LoseText="!"
+Money=1000
+Pokemon=MAGNEMITE,100
+
+Pokemon=PIKACHU,100
+
+[Student Lilliane]
+LoseText="How cold!"
+Money=1000
+Pokemon=FROSMOTH,100
+
+[Student Sarah]
+LoseText="Damn it!"
+Money=1000
+Pokemon=SHELGON,100
+
+Pokemon=TOXICROAK,100
+

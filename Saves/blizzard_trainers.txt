@@ -1,0 +1,39 @@
+[Ace Trainer Lilliane]
+LoseText="Again. What a chill."
+Money=10000
+Pokemon=FROSMOTH,100
+**IVs=31,31,31,31,31,31
+**EVs=0,0,0,252,0,252
+**Moves=QUIVERDANCE,ICEBEAM,BUGBUZZ,GIGADRAIN
+**Ability=0
+**Item=LIFEORB
+**Nature=TIMID
+
+Pokemon=ARTICUNO,100
+**IVs=31,31,31,31,31,31
+**EVs=0,0,0,252,0,252
+**Moves=ICEBEAM,ANCIENTPOWER,HURRICANE,UTURN
+**Ability=0
+**Item=CHOICESPECS
+**Nature=MODEST
+
+[Ace Trainer Michaela]
+LoseText="How shocking... I guess."
+Money=10000
+Pokemon=RAICHU,100
+**IVs=31,31,31,31,31,31
+**EVs=0,0,0,252,0,252
+**Moves=THUNDERBOLT,NASTYPLOT,FOCUSBLAST,VOLTSWITCH
+**Ability=0
+**Item=LIFEORB
+**Nature=TIMID
+
+Pokemon=MAGNEZONE,100
+**IVs=31,31,31,31,31,31
+**EVs=0,0,0,252,0,252
+**Moves=THUNDERBOLT,FLASHCANNON,TOXIC,VOLTSWITCH
+**Ability=0
+**Item=CHOICESPECS
+**Nature=MODEST
+
+

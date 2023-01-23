@@ -1,0 +1,16 @@
+[Student Allie]
+LoseText="HEHEHEHEHEHHE!"
+Money=500
+Pokemon=SNIVY,5
+
+[Student Maren]
+Money=500
+LoseText="I'll get you next time!!!!"
+Pokemon=PIPLUP,5
+
+[Student Laura]
+Money=500
+LoseText="Call me Lista!!!!"
+Pokemon=ROWLET,7
+
+Pokemon=GASTLY,10

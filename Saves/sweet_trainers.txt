@@ -1,0 +1,20 @@
+[Scientist Simona]
+LoseText=":)"
+Pokemon=CHARIZARD,100
+**IVs=31,31,31,31,31,31
+**EVs=0,252,0,0,0,252
+**Moves=FLAREBLITZ,DRAGONDANCE,EARTHQUAKE,DRAGONCLAW
+**Ability=0
+**Item=CHARIZARDITEX
+**Nature=JOLLY
+
+[Scientist Raina]
+LoseText=""
+Pokemon=GARCHOMP,100
+**IVs=31,31,31,31,31,31
+**EVs=0,252,0,0,0,252
+**Moves=FIREBLAST,DRAGONDANCE,EARTHQUAKE,DRAGONCLAW
+**Ability=0
+**Item=GARCHOMPITE
+**Nature=NAIVE
+

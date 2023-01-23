@@ -1,0 +1,26 @@
+[Camper Molly]
+LoseText="But how?"
+Items=MEGARING
+Pokemon=FLYGON,100
+
+Pokemon=VENUSAUR,100
+
+Pokemon=WARTORTLE,100
+
+[Camper Emily]
+LoseText="But how?"
+Items=MEGARING
+Pokemon=SNOM,100
+
+Pokemon=FROSMOTH,100
+
+[Camper Winnie]
+LoseText="But how?"
+Items=MEGARING
+Pokemon=JANGMOO,100
+
+Pokemon=GIBLE,100
+
+Pokemo=BELDUM,100
+
+

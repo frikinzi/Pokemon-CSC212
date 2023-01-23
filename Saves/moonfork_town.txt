@@ -1,0 +1,16 @@
+[Preschooler Dana]
+LoseText="But how?"
+Money=500
+Pokemon=TURTWIG,5
+
+[Preschooler Pina]
+Money=500
+LoseText="WAAHHHH!!!!"
+Pokemon=LITTEN,10
+
+[Preschooler Victoria]
+Money=500
+LoseText="ehhhhh!!!!"
+Pokemon=ROWLET,7
+
+Pokemon=GASTLY,10
